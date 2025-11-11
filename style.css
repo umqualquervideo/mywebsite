@@ -1,25 +1,20 @@
 body {
-    color: rgb(255, 177, 201);
-    background: rgb(12, 1, 4);
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
     margin: 10px;
     text-align: center;
-    font-family: "IBM Plex Mono", serif;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
     font-style: normal;
+    
 }
 
-a{
-    font-size: 90px;
-    color: rgb(190, 14, 67);
+h1 {
+    font-size: = 50px;
 }
-
-h1{
-    font-size: 50px;
+p {
+    font-size: = 25px;
 }
-
-h2{
-    font-size: 65;
-}
-
-p{
-    font-size: 45px;
+a {
+    font-size: = 150px;
 }
