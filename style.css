@@ -4,8 +4,8 @@ body {
     margin: 10px;
     text-align: center;
     font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
     font-style: normal;
-    
 }
 
 h1 {
